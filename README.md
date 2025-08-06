@@ -111,11 +111,10 @@ The easiest way to install Reconk on Debian-based systems (like Kali, Parrot OS,
 ## 🖥️ How to Use
 
 1.  After installation, find **Reconk** in your system's application menu and launch it. A launcher icon will also be placed on your desktop.
-2.  From the dashboard, click "Start Scan" to begin.
-3.  Enter a target name (e.g., `example.com`) to create a new workspace.
-4.  Provide a list of root domains to define the initial scope for enumeration.
-5.  After the initial scan, navigate back to the dashboard to run more advanced modules like JavaScript scanning, vulnerability scanning, etc.
-6.  View the real-time output in the terminal window for each scan. All results are saved to `~/reconk/<target_name>/`.
+2.  Enter a target name (e.g., `example.com`) to create a new workspace.
+3.  Provide a list of root domains to define the initial scope for enumeration.
+4.  After the initial scan, navigate back to the dashboard to run more advanced modules like JavaScript scanning, vulnerability scanning, etc.
+5.  View the real-time output in the terminal window for each scan. All results are saved to `~/reconk/<target_name>/`.
 
 ---
 
