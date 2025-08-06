@@ -90,13 +90,6 @@ The easiest way to install Reconk on Debian-based systems (like Kali, Parrot OS,
     sudo dpkg -i reconk-1.5.0_amd64.deb
     ```
 
-3.  **Install Dependencies:**
-    If `dpkg` reports any missing dependencies, run this command to automatically find and install them:
-    ```bash
-    sudo apt-get install -f
-    ```
-    This will install all the required command-line tools and libraries.
-
 ---
 
 ## 🖥️ How to Use
