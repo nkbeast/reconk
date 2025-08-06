@@ -21,7 +21,7 @@
   </a>
 </p>
 
-**Reconk** is a powerful, cross-platform desktop application that provides a graphical user interface for complex web reconnaissance workflows. It automates and simplifies the process of intelligence gathering by orchestrating a suite of powerful command-line tools, presenting their output in a clean, real-time terminal view.
+**RECONK** is a powerful, cross-platform desktop application that provides a graphical user interface for complex web reconnaissance workflows. It automates and simplifies the process of intelligence gathering by orchestrating a suite of powerful command-line tools, presenting their output in a clean, real-time terminal view.
 
 Built for security researchers and penetration testers, Reconk streamlines everything from initial subdomain enumeration to in-depth vulnerability scanning. It manages workspaces, scopes, and scan outputs, allowing you to focus on analysis rather than manual tool chaining.
 
