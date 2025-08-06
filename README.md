@@ -7,15 +7,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/nkbeast/reconk/releases/latest">
-    <img src="https://img.shields.io/github/v/release/nkbeast/reconk?display_name=tag&color=green">
-  </a>
-  <a href="https://github.com/nkbeast/reconk/issues">
-    <img src="https://img.shields.io/github/issues/nkbeast/reconk.svg">
-  </a>
-  <a href="https://discord.gg/49ahCjx2Jc">
-    <img src="https://img.shields.io/discord/1048623782912340038.svg?logo=discord&label=discord">
-  </a>
+  <img src="https://img.shields.io/badge/Made%20by-NK-blue?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/github/license/nkbeast/PhishGuard?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/nkbeast/PhishGuard?style=flat-square" />
 </p>
 
 **RECONK** is a powerful, cross-platform desktop application that provides a graphical user interface for complex web reconnaissance workflows. It automates and simplifies the process of intelligence gathering by orchestrating a suite of powerful command-line tools, presenting their output in a clean, real-time terminal view.
