@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/nkbeast/reconk"><img src="https://raw.githubusercontent.com/nkbeast/reconk/main/assets/banner.png" alt="Reconk Banner"></a>
+  <a href="https://github.com/nkbeast/reconk"><img src="https://raw.githubusercontent.com/nkbeast/reconk/main/assets/banner.png" alt="RECONK BANNER"></a>
   <br>
-  Reconk
+  RECONK
   <br>
 </h1>
 
